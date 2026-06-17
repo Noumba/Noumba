@@ -2,12 +2,18 @@
 
 ### Infrastructure & Network Engineer | SolarWinds Certified | Home Lab Builder
 
-I specialize in enterprise infrastructure support, network engineering, and monitoring — with hands-on experience in NOC/Tier 2 support, Cisco networking, and SolarWinds administration. I also bring a software development background (CS degree), which I use to script automation and build tools around my infrastructure work.
+I specialize in enterprise infrastructure support, network engineering, and monitoring with hands-on experience in NOC/Tier 2 support, Cisco networking, and SolarWinds administration. I also bring a software development background (CS degree), which I use to script automation and build tools around my infrastructure work.
 
 📡 **Building:** A multi-VLAN enterprise home lab (VMware ESXi, pfSense, WireGuard)
+
 🎯 **Learning:** CCNA · AWS Cloud Practitioner · ITIL 4
+
 💼 **Open to:** Remote NOC / SolarWinds Administrator / Network Engineer roles
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/leonard-noumba-246289182) · [TikTok/YouTube @tech.with.leo5/@TechWithLeo-LN](#) · [Email](n.leonardeinstein@gmail.com)
+
+📫 **Reach me:** 
+[LinkedIn](https://www.linkedin.com/in/leonard-noumba-246289182) · 
+[TikTok/YouTube @tech.with.leo5/@TechWithLeo-LN](#) · 
+[Email](n.leonardeinstein@gmail.com)
 
 ---
 
