@@ -31,7 +31,7 @@ I specialize in enterprise infrastructure support, network engineering, and moni
 **Technical Support Engineer, SolarWinds** — 3 years
 Provided direct technical support to SolarWinds platform customers as a contractor of SolarWinds.
 
-**Independent SolarWinds Consultant** — post-SolarWinds
+**Independent SolarWinds Consultant** — Post-SolarWinds
 Delivered platform deployment, monitoring support, audits, and training for financial-services and government clients across Africa:
 
 - Performed a full SolarWinds platform deployment for a financial-services client in Tanzania
