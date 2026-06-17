@@ -75,8 +75,8 @@ Designing, breaking, and documenting a production-style environment on an HP Eli
 - Networking using GNS3 and EVE-NG
 
 📺 Fully documented step-by-step on 
-Tiktok [@tech.with.leo5](https://www.tiktok.com/@tech.with.leo5) 
-YouTube [@TechWithLeo-LN](https://www.youtube.com/@TechWithLeo-LN)
+[Tiktok](https://www.tiktok.com/@tech.with.leo5) 
+[YouTube](https://www.youtube.com/@TechWithLeo-LN)
 
 ---
 
