@@ -12,7 +12,8 @@ I specialize in enterprise infrastructure support, network engineering, and moni
 
 📫 **Reach me:** 
 [LinkedIn](https://www.linkedin.com/in/leonard-noumba-246289182) · 
-[TikTok/YouTube @tech.with.leo5/@TechWithLeo-LN](#) · 
+[Tiktok](https://www.tiktok.com/@tech.with.leo5) · 
+[YouTube](https://www.youtube.com/@TechWithLeo-LN) · 
 [Email](n.leonardeinstein@gmail.com)
 
 ---
@@ -27,9 +28,16 @@ I specialize in enterprise infrastructure support, network engineering, and moni
 
 ## 💼 Professional Highlights
 
+**Technical Support Engineer, SolarWinds** — 3 years
+Provided direct technical support to SolarWinds platform customers as a contractor of SolarWinds.
+
+**Independent SolarWinds Consultant** — post-SolarWinds
+Delivered platform deployment, monitoring support, audits, and training for financial-services and government clients across Africa:
+
+- Performed a full SolarWinds platform deployment for a financial-services client in Tanzania
+- Provided 24/7 network monitoring support for a financial-services client in Tanzania under a yearly support contract
 - Conducted a SolarWinds Hybrid Cloud Observability audit for a financial-services client, producing a 68-control checklist across 7 monitoring domains
-- NOC / Tier 2 support experience: incident triage, escalation handling, and infrastructure troubleshooting
-- Diagnosed and resolved a production ESXi boot failure (PSOD) tied to TPM 2.0 / Secure Boot / CMOS issues
+- Delivered a 4-day SolarWinds Hybrid Cloud Observability training program for a government IT department client in Nigeria
 
 ---
 
@@ -42,13 +50,16 @@ VMware ESXi · Windows Server · Linux Administration · Active Directory · DNS
 TCP/IP · VLANs · Routing & Switching · Cisco · Firewalls (pfSense) · Network Troubleshooting
 
 **Monitoring & Observability**
-SolarWinds NPM · SolarWinds Hybrid Cloud Observability · SAM · NCM
+SolarWinds NPM · SolarWinds Hybrid Cloud Observability · SAM · NCM 
+
+**ITSM & SIEM**
+SolarWinds ITSM · SolarWinds SEM
 
 **Automation & DevOps** *(in progress)*
 Git/GitHub · PowerShell · Bash · Python · Docker · CI/CD Fundamentals · IaC Concepts
 
 **Software Development**
-PHP & Laravel · Dart/Flutter · Python · OCaml *(Computer Science fundamentals)*
+PHP & Laravel · Dart/Flutter · Python · OCaml 
 
 ---
 
@@ -58,26 +69,27 @@ Designing, breaking, and documenting a production-style environment on an HP Eli
 
 - VMware ESXi 8.0 host with multi-VLAN segmentation (MGMT, INFRA, DMZ, CLOUD, N-LAB)
 - pfSense as inter-VLAN router/firewall, with documented firewall rules
-- WireGuard VPN for secure remote lab access
+- WireGuard/Tailscale VPN for secure remote lab access
 - Windows Server 2022 deployment
 - SolarWinds monitoring implementation across the lab
+- Networking using GNS3 and EVE-NG
 
-📺 Fully documented step-by-step on [@tech.with.leo5](#) (TikTok & YouTube)
+📺 Fully documented step-by-step on 
+Tiktok [@tech.with.leo5](https://www.tiktok.com/@tech.with.leo5) 
+YouTube [@TechWithLeo-LN](https://www.youtube.com/@TechWithLeo-LN)
 
 ---
 
 ## 📂 Featured Repos
 
-> *Pin these once pushed so they show at the top of your profile:*
-
-- 🔹 **Enterprise Home Lab Docs** — Network design, VLAN architecture, firewall rules (HL-NET-001/002)
-- 🔹 **SolarWinds Audit & Monitoring Lab** — Device onboarding, audit checklist, alert tuning
+- 🔹 **Enterprise Home Lab Docs** — Network design, VLAN architecture, firewall rules [Home Lab](https://github.com/Noumba/IT-Enterprise-HomeLab)
+- 🔹 **SolarWinds Audit & Monitoring Lab** — Device onboarding, audit checklist, alert tuning [Home Lab](https://github.com/Noumba/IT-Enterprise-HomeLab)
 
 ---
 
 ## 🌱 2026 Roadmap
 
-ServiceNow CSA → AWS Cloud Practitioner → ITIL 4 → CCNA → AWS ANS-C01
+CCNA → AWS Cloud Practitioner → ITIL 4
 
 ---
 
@@ -91,4 +103,4 @@ ServiceNow CSA → AWS Cloud Practitioner → ITIL 4 → CCNA → AWS ANS-C01
 
 Open to collaborating on infrastructure projects, networking labs, DevOps automation, and open-source contributions.
 
-[LinkedIn](#) · [TikTok](#) · [YouTube](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/leonard-noumba-246289182) · [Tiktok](https://www.tiktok.com/@tech.with.leo5) · [YouTube](https://www.youtube.com/@TechWithLeo-LN) · [Email](n.leonardeinstein@gmail.com)
